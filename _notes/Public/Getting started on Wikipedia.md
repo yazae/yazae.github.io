@@ -2,7 +2,6 @@
 title : Getting started on Wikipedia
 notetype : feed
 date : 24-03-2022
-tags : Wikipedia Test
 ---
 Cette page est un wiki. Je réunirais toutes les infos que je rassemblerais sur Wikipedia et la manière dont il est possible de contribuer à cette encyclopédie participative.
 
@@ -82,3 +81,4 @@ Droit au langage inclusif mais pas de point médian :
 
 ----
 Édité le 24-03-22
+Tags : Libre, Communs, Wikipedia
