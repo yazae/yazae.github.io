@@ -27,9 +27,9 @@ Reboot et ouvrir :
 
 > It worked !!
 
-En fait, ça ouvre blueman, un utilitaire bluetooth plus performant que celui natif à Ubuntu! 
+En fait, ça ouvre blueman, un utilitaire bluetooth plus performant que celui natif à Ubuntu!
 
 -----
 
 Édité le 24/03/22.   
-Tags : Libre, FOSS, Ubuntu
+Tags : Libre, FOSS, Linux, Ubuntu, Bug
