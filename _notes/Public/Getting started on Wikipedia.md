@@ -6,7 +6,8 @@ date : 24-03-2022
 Cette page est un wiki. Je réunirais toutes les infos que je rassemblerais sur Wikipedia et la manière dont il est possible de contribuer à cette encyclopédie participative.
 
 ## Index  
-<!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:2 title:0 charForUnorderedList:* -->
+<!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
+* [To do](#to-do)
 * [Règles de Wikipedia](#règles-de-wikipedia)
   * [Wikification](#wikification)
   * [Enrichir une page](#enrichir-une-page)
@@ -18,8 +19,7 @@ Cette page est un wiki. Je réunirais toutes les infos que je rassemblerais sur 
 
 ## To do  
 
-- Trouver date prochaine réunion Sans Pages LGBT
-- ~Créer page de la créatrice de Pikachu~
+- <s>Créer page de la créatrice de Pikachu</s>
   - Corriger sa page en anglais
 - Lister pages à étudier / surveiller / enrichir
 - Se renseiger sur règles de wikification
