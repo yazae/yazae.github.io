@@ -28,9 +28,9 @@ url: "https://yazae.github.io/" # the base hostname & protocol for your site, e.
 # your social media links etc
 #######################################################################
 
-heading: Digital Garden # Change this
+heading: Yazae. # Change this
 copyright:
-  year: 2022 - Aucun droit réservé
+  year: 2022 - CC-BY-SA
   msg: Yazae # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 

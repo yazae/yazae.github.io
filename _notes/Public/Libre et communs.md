@@ -27,7 +27,7 @@ Je vais réunir sur cette page toutes mes notes concernant le monde du libre (FO
 
 ## Ressources
 ### Wikipédia
-Pour mes notes sur Wikipédia, l’encyclopédie collective, visitez [[Getting started on Wikipedia]].
+Pour mes notes sur Wikipédia, l’encyclopédie participative, visitez [[Getting started on Wikipedia]].
 
 ### Libre à vous #127 - Contribuer au libre
 
