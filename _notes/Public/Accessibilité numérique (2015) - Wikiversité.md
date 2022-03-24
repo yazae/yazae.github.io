@@ -16,9 +16,11 @@ Retour vers les [[Formations sur l’accessibilité]].
   * [WCAG & W3C](#wcag--w3c)
   * [RGAA en France](#rgaa-en-france)
   * [Une obligation légale européenne et française](#une-obligation-légale-européenne-et-française)
-  * [Résumé](#résumé)
+  * [Résumé](#résumé)  
 <!-- /TOC -->
+
 ## Session 1
+
 ### Introduction
 
 L'accessibilité est une exigence fondamentale du Web.
