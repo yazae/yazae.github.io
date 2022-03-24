@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://yazae.github.io/yazae.garden/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/yazae.garden/" # the subpath of your site, e.g. /blog
+url: "https://yazae.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as
