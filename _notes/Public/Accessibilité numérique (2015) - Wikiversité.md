@@ -16,7 +16,7 @@ Retour vers les [[Formations sur l’accessibilité]].
   * [WCAG & W3C](#wcag--w3c)
   * [RGAA en France](#rgaa-en-france)
   * [Une obligation légale européenne et française](#une-obligation-légale-européenne-et-française)
-  * [Résumé](#résumé)  
+  * [Résumé](#résumé)
 <!-- /TOC -->
 
 ## Session 1
@@ -87,5 +87,5 @@ Pour les sites privés, qui ne sont pas soumis à cette obligation légale, la n
 Il ne s’agit pas d’adapter les contenus, mais de les rendre accessibles, c’est-à-dire exploitables par tous les terminaux de consultation et les diverses aides techniques. Pour ce faire, l’accessibilité web, préoccupation originelle du Web, est encadrée par des normes internationales.
 
 ----
-Édité le 24-03-22
+Édité le 24-03-22  
 Tags : Libre, Accessibilité, Wikiversité, Wikipedia

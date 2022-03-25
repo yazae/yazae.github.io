@@ -27,9 +27,9 @@ Une page listant les formations sur l’accessibilité que j’ai pu trouver sur
 
 1. [Accessibilité numérique (2015) - Comment bien suivre la formation - Wikiversité](https://fr.wikiversity.org/wiki/Accessibilte_numerique-Comment_bien_suivre_la_formation "Accessibilité numérique (2015) - Comment bien suivre la formation - Wikiversité")  
 	**Formation de 14 heures en tout.**  
-	
+
 	<ins>Notes ici :</ins> [[Accessibilité numérique (2015) - Wikiversité]]  
-	
+
 
 2. [Concevez un contenu web accessible (2021) - OpenClassrooms](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)  
 	**6 heures estimées.**
@@ -42,3 +42,7 @@ Une page listant les formations sur l’accessibilité que j’ai pu trouver sur
 
 5. [Formation Simplification de l'information aux usagers (2022) - DesignGouv](https://design.numerique.gouv.fr/formations/simplification-information/)  
 	**2h30 environ.**  
+
+  ----
+  Édité le 25-03-22  
+  Tags : Accessibilité, Apprentissage
