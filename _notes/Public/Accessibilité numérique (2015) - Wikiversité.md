@@ -4,7 +4,7 @@ notetype : feed
 date : 01-03-2022
 ---
 
-Notes sur la formation Accessibilité numérique de la Wikiversité.
+Notes sur la formation [Accessibilité numérique de la Wikiversité](https://fr.wikiversity.org/wiki/Comprendre_l_accessibilite_numerique-Notions_de_base#comprendrelaccessibilite).
 
 ## Index
 Retour vers les [[Formations sur l’accessibilité]].
@@ -86,6 +86,9 @@ Pour les sites privés, qui ne sont pas soumis à cette obligation légale, la n
 
 Il ne s’agit pas d’adapter les contenus, mais de les rendre accessibles, c’est-à-dire exploitables par tous les terminaux de consultation et les diverses aides techniques. Pour ce faire, l’accessibilité web, préoccupation originelle du Web, est encadrée par des normes internationales.
 
+Aller vers la suite : [[Accessibilité Wikiversité - Session 2]]
+
 ----
-Édité le 24-03-22  
+Tous les contenus de la wikiversité sont sous license CC-BY-SA.
+Édité le **24-03-22**  
 Tags : Libre, Accessibilité, Wikiversité, Wikipedia
