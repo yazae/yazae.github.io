@@ -17,6 +17,8 @@ Différentes sources qui donnent des pistes de réflexion sur l’écriture incl
 
 -   Inclusivité & accessibilité - Lunatopia - [http://lunatopia.fr/blog/inclusivite-accessibilite](http://lunatopia.fr/blog/inclusivite-accessibilite) (ça donne une réponse sur comment est lu le texte avec les point médians : avec les lettres prononcées distinctement apparemment ( à test )
 
+-   [Alpheratz - Un genre neutre pour la langue française](https://www.alpheratz.fr/articles/un-genre-neutre-pour-la-langue-francaise/)
+
 En vrac (pas toutes les sources se valent, mais c'est intéressant) :
 
 -   [https://cafaitgenre.org/2013/12/10/feminisation-de-la-langue-quelques-reflexions-theoriques-et-pratiques/comment-page-1/](https://cafaitgenre.org/2013/12/10/feminisation-de-la-langue-quelques-reflexions-theoriques-et-pratiques/comment-page-1/)
