@@ -121,5 +121,5 @@ len() #fonction qui donne le nombre de caractères d'une chaine de caractères (
 
 -----
 
-Édité le 24/03/22.  
+Édité le 24-03-22.  
 Tags : Code, Python, Apprentissage

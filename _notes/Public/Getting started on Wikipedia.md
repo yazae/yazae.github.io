@@ -80,5 +80,5 @@ Droit au langage inclusif mais pas de point médian :
   - [Atsuko Nishida](https://fr.wikipedia.org/wiki/Utilisatrice:Alex_Lambda/Atsuko_Nishida), créatrice de Pikachu.
 
 ----
-Édité le 24-03-22
+Édité le 24-03-22  
 Tags : Libre, Communs, Wikipedia

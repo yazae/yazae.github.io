@@ -14,5 +14,5 @@ Ouais, je code, aussi, parfois, mais je suis très rouillée alors vous moquez p
 
 -----
 
-Édité le 25/03/22.  
+Édité le 25-03-22.  
 Tags: Queer, Livres

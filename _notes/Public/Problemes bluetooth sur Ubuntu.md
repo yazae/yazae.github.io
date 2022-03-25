@@ -31,5 +31,5 @@ En fait, ça ouvre blueman, un utilitaire bluetooth plus performant que celui na
 
 -----
 
-Édité le 24/03/22.   
+Édité le 24-03-22.   
 Tags : Libre, FOSS, Linux, Ubuntu, Bug

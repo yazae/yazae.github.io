@@ -60,5 +60,5 @@ Un lexique sur les termes que je rencontre lors de mes recherches.
 
 -----
 
-Édité le 24/03/22.   
+Édité le 24-03-22.   
 Tags : Libre, Communs, FOSS
