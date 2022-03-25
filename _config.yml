@@ -30,7 +30,7 @@ url: "https://yazae.github.io/" # the base hostname & protocol for your site, e.
 
 heading: Yazae. # Change this
 copyright:
-  year: 2022 - CC-BY-SA
+  year: 2022 - CC-BY-NC
   msg: Yazae # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
 
 
