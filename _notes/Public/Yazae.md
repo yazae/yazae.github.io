@@ -13,6 +13,5 @@ Dernièrement, je suis des [[Formations sur l’accessibilité]] et j'essaie d'a
 Ouais, je code, aussi, parfois, mais je suis très rouillée alors vous moquez pas !
 
 -----
-
 Édité le 25-03-22.  
 Tags: Queer, Livres
