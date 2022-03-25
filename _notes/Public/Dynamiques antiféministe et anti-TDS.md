@@ -13,7 +13,7 @@ Et ça parle en filigrane de l'histoire de la création du premier syndicat de T
 (conclusion de l'article à partir de : "Le 21 octobre 2017")
 
 Sinon, il y aussi le manifeste de ce syndicat qui me semble être un support pertinent sur les sujets mêlés de l'antipatriarcat et de l'anticapitalisme en rapport aux luttes TDS :
-[CNT-TDS-Manifesto-6mars2017.pdf](https://cnttds31.noblogs.org/files/2018/06/CNT-TDS-Manifesto-6mars2017.pdf)
+[CNT-TDS-Manifesto-6mars2017.pdf](../assets/docs/CNT TDS 31/CNT-TDS-Manifesto-6mars2017.pdf)
 
  ----
   Édité le 25-03-22  
