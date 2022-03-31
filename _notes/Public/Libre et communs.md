@@ -32,10 +32,10 @@ Pour mes notes sur Wikipédia, l’encyclopédie participative, visitez [[Gettin
 
 ### Libre à vous #127 - Contribuer au libre
 
-[Libre à vous #127](https://www.libreavous.org/127-contribuer-au-libre-chronique-d-antanak-chronique-de-marie-odile-morandi)
+[Libre à vous #127](https://www.libreavous.org/127-contribuer-au-libre-chronique-d-antanak-chronique-de-marie-odile-morandi){:target="_blank"}
 
 1. Contribulle, le projet pour faciliter les contributions avec Maiwan & LLAQ
-   - [https://contribulle.org](https://contribulle.org)
+   - [https://contribulle.org](https://contribulle.org){:target="_blank"}
    - Comment fait-on pour faire rester les personnes, pour qu'elles reviennent alors qu’elles ne sont pas acclimatées au libre ?
 2. Chronique d'Antanax - L'Écrasement de données dans les disques durs  
 

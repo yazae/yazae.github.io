@@ -4,7 +4,7 @@ notetype : feed
 date : 24-03-2022
 ---
 
-Problème de bluetooth sur Ubuntu 20.04.4 LTS résolu par [cette marche à suivre](https://askubuntu.com/questions/1231074/ubuntu-20-04-bluetooth-not-working "Ask Ubuntu : Ubuntu 20-04 bluetooth not working") :
+Problème de bluetooth sur Ubuntu 20.04.4 LTS résolu par [cette marche à suivre](https://askubuntu.com/questions/1231074/ubuntu-20-04-bluetooth-not-working "Ask Ubuntu : Ubuntu 20-04 bluetooth not working"){:target="_blank"} :
 
 ```
 sudo apt install blueman

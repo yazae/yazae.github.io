@@ -28,6 +28,7 @@ Cette page est un wiki. Je réunirais toutes les infos que je rassemblerais sur 
 
 - WP est une encyclopédie
 - Rédigée sur un ton neutre
+- Publié sous licence libre
 - Régie par règles de savoir vivre
 - WP n'a pas d'autres règles fixes
   - Les autres règles sont définies par délibération et concensus, au niveau global ou individuel de chaque pages
@@ -56,13 +57,18 @@ Portrait dans Le Monde / libération / Le Figaro / Le Parisien.
 ### Les biais de genre dans WP
 
 2013 - 16% contributrices
-2022 - 19% de biographies de femmes
+2022 - 19% de biographies de femmes (15% en 2015)
 
 Différence dans les domaines de connaissances (exemple : arts textiles très sous-dev)
 
 Sous-représentation de :
 - Littérature
 - Sciences humaines
+- Mode
+- Artistes
+- Sportives
+
+Problème dans le langage des articles
 
 - c'est la femme de ..
 - Vie privée enfants mariages 4%H et 27% F
@@ -75,9 +81,16 @@ Droit au langage inclusif mais pas de point médian :
 - "double flexion"
 
 ## Mon activité sur Wikipedia
-- [Ma page personnelle](https://fr.wikipedia.org/wiki/Utilisatrice:Alex_Lambda)
+- [Ma page personnelle](https://fr.wikipedia.org/wiki/Utilisatrice:Alex_Lambda){:target="_blank"}
 - Dernières pages crées :
-  - [Atsuko Nishida](https://fr.wikipedia.org/wiki/Utilisatrice:Alex_Lambda/Atsuko_Nishida), créatrice de Pikachu.
+  - [Atsuko Nishida](https://fr.wikipedia.org/wiki/Utilisatrice:Alex_Lambda/Atsuko_Nishida){:target="_blank"}, créatrice de Pikachu.
+
+## Pages à surveiller
+[Erik Schinegger](https://f	r.m.wikipedia.org/wiki/Erik_Schinegger){:target="_blank"}
+
+
+
+
 
 ----
 Édité le 24-03-22  

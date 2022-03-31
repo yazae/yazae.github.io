@@ -12,6 +12,9 @@ Dernièrement, je suis des [[Formations sur l’accessibilité]] et j'essaie d'a
 
 Ouais, je code, aussi, parfois, mais je suis très rouillée alors vous moquez pas !
 
+## Me contacter
+Vous pouvez me contacter sur le fédiverse, ou par mail : [mail@yazae.me](mailto:mail@yazae.me) :)
+
 -----
 Édité le 25-03-22.  
 Tags: Queer, Livres

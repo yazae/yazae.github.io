@@ -25,22 +25,22 @@ Une page listant les formations sur l’accessibilité que j’ai pu trouver sur
 
 ### Les formations gratuites  
 
-1. [Accessibilité numérique (2015) - Comment bien suivre la formation - Wikiversité](https://fr.wikiversity.org/wiki/Accessibilte_numerique-Comment_bien_suivre_la_formation "Accessibilité numérique (2015) - Comment bien suivre la formation - Wikiversité")  
+1. [Accessibilité numérique (2015) - Comment bien suivre la formation - Wikiversité](https://fr.wikiversity.org/wiki/Accessibilte_numerique-Comment_bien_suivre_la_formation "Accessibilité numérique (2015) - Comment bien suivre la formation - Wikiversité"){:target="_blank"}  
 	**Formation de 14 heures en tout.**  
 
 	<u>Notes ici :</u> [[Accessibilité numérique (2015) - Wikiversité]]  
 
 
-2. [Concevez un contenu web accessible (2021) - OpenClassrooms](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)  
+2. [Concevez un contenu web accessible (2021) - OpenClassrooms](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible){:target="_blank"}  
 	**6 heures estimées.**
 
-3. [Codez un site web accessible avec HTML & CSS (2021) - OpenClassrooms](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css)  
+3. [Codez un site web accessible avec HTML & CSS (2021) - OpenClassrooms](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css){:target="_blank"}  
 	**6 heures estimées.**
 
-4. [Formation à l'accessibilité (2022) - DesignGouv](https://design.numerique.gouv.fr/formations/accessibilite/) et [Formation à l’accessibilité numérique par DesignGouv (2022) - YouTube](https://www.youtube.com/watch?v=_5zIrh-LDto&t=2456s)  
+4. [Formation à l'accessibilité (2022) - DesignGouv](https://design.numerique.gouv.fr/formations/accessibilite/) et [Formation à l’accessibilité numérique par DesignGouv (2022) - YouTube](https://www.youtube.com/watch?v=_5zIrh-LDto&t=2456s){:target="_blank"}   
 	**2h30 environ.**  
 
-5. [Formation Simplification de l'information aux usagers (2022) - DesignGouv](https://design.numerique.gouv.fr/formations/simplification-information/)  
+5. [Formation Simplification de l'information aux usagers (2022) - DesignGouv](https://design.numerique.gouv.fr/formations/simplification-information/){:target="_blank"}    
 	**2h30 environ.**  
 
   ----
