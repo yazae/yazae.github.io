@@ -4,7 +4,7 @@ notetype : feed
 date : 31-03-2022
 ---
 
-Bonjour, aujourd’hui je vais vous parler d’une série de webnovels en anglais : *The Wandering Inn* ([wanderinginn.com](https://wanderinginn.com){:target="_blank"}).
+Aujourd’hui, je vais vous parler d’une série de webnovels en anglais : *The Wandering Inn* ([wanderinginn.com](https://wanderinginn.com){:target="_blank"}).
 C’est un de mes coups de cœur de l’année dernière, et elle est devenue l’une de mes série littéraire préférée de tous les temps, je ne pouvais donc pas passer à côté sur ce blog !
 
 Erin Solstice est une humaine ordinaire dans notre monde, suffisamment talentueuse aux échecs pour comprendre qu’elle n’arrivera jamais au niveau d’un·e maître (grandmaster). Elle ouvre une porte un matin et… elle se retrouve devant un dragon en colère, dans un monde de fantasy, sans aucun moyen de retourner chez elle.
@@ -16,7 +16,7 @@ Le rythme de la série est principalement de la tranche de vie, entrecoupée de 
 
 Bref, je ne sais pas quoi dire de plus à part vous en conseiller vivement la lecture - avec un petit avertissement tout de même : c’est la plus longue série que j’ai pu lire, et même si l’anglais est facile à lire, je la recommanderais avant tout à de grand·es lecteurices !
 
-P.S. : Il existe aussi une traduction française des deux premiers tomes : [L’Auberge Vagabonde](https://aubergevagabonde.wordpress.com/){:target="_blank"}, mais je ne la conseille pas vraiment, la fantrad est assez peu qualitative. Si vous lisez l’anglais, n’hésitez pas ! :)
+P.S. : Il existe aussi une traduction française des deux premiers tomes : [L’Auberge Vagabonde](https://aubergevagabonde.wordpress.com/){:target="_blank"}, mais je ne la conseille pas vraiment, la fantrad est assez peu qualitative. Si vous lisez l’anglais, n’hésitez pas à essayer directement la VO ! :)
 
 **Vous voulez en savoir plus sur The Wandering inn ?  
 Visitez mes autres notes :**

@@ -30,8 +30,8 @@ Le dernier gnome connu des Fraelings est mort à Baleros il y a des millénaires
 ## Chronologie
 See this [timeline](https://thewanderinginn.fandom.com/wiki/Timeline){:target="_blank"} on TWI’s wiki.
 
-
-
-
+-----
+Édité le 31-03-22.  
+Tags : TWI, Livres, LitRPG, Fantasy
 
 
