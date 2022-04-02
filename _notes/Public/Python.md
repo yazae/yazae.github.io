@@ -12,6 +12,9 @@ Python 10.3 - Initiation avec Mon cours visuel de programmation de Sean McManus,
 * [Spécificités](#spécificités)
   * [Divers](#divers)
   * [Opérateurs logiques et booléens](#opérateurs-logiques-et-booléens)
+  * [`if`, `elif`, `else`](#if-elif-else)
+  * [Entrées et sorties](#entrées-et-sorties)
+  * [Les boucles](#les-boucles)
 * [Commandes intégrées](#commandes-intégrées)
 <!-- /TOC -->
 
@@ -69,6 +72,72 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
 
   * `not` ex : `not(y == 3)` Renvoie false si l'expression est true, true si l'expression est false.
 
+### `if`, `elif`, `else`
+> Exemple :
+```py
+    quiz_score = 9
+    if quiz_score > 8:
+      print("Vous etes un champion !")
+    elif quiz_score > 5:
+      print("Vous auriez pu faire mieux !")
+    else:
+    print("Étiez-vous bien réveillé ?")
+
+    Vous etes un champion !
+```
+> `elif` est un raccourcis pour else if  
+
+### Entrées et sorties  
+
+- `input` permet de demander à l’utilisateurice de saisir une donnée.
+> Exemple :
+```py
+  nom = input("Saississez votre nom :")
+Saississez votre nom :Alex
+  print("Bonjour "+nom+" !")
+Bonjour Alex !
+```
+
+### Les boucles
+
+#### La boucle `for`  
+
+Utilisée si l’on sait combien de fois le bloc de code sera répété.
+> exemple
+```py
+for chrono in range (1,4): # équivalent d’une liste contenant 1-3.
+    print(chrono)
+else :
+    print("Go !")
+1
+2
+3
+Go !
+```
+#### La boucle `while`  
+
+Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, à la place de la boucle `for`.  
+
+> exemple
+```py
+number = 1
+while number <10:
+    print(number)
+    number = number +1
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
+#### Sortie de boucle  
+
+On peut interrompre une boucle totalement avec `break`, alors que `continue` permet de "sauter" une itération et de passer à la suivante.
 
 ## Commandes intégrées  
 
@@ -121,5 +190,5 @@ len() #fonction qui donne le nombre de caractères d'une chaine de caractères (
 
 -----
 
-Édité le 24-03-22.  
+Dernière édition le 02-04-22.  
 Tags : Code, Python, Apprentissage
