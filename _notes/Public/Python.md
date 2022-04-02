@@ -123,7 +123,7 @@ Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, �
 number = 1
 while number <10:
     print(number)
-    number = number +1
+    number = number +1 # On incrémente de 1 number pour ne pas produire une boucle infinie.
 
 1
 2
