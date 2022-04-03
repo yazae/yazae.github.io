@@ -20,8 +20,6 @@ Retour à [[Accessibilité numérique (2015) - Wikiversité]] (session 1)
   * [Résumé](#résumé)
 <!-- /TOC -->
 
-
-
 ## Session 2 - Initier une démarche d'accessibilité
 ### Introduction
 L'accessibilité web impacte les 3 phases de la vie d'un site : Conception, fabrication et exploitation (y compris la publication de contenus).

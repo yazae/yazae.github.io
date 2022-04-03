@@ -135,9 +135,11 @@ while number <10:
 8
 9
 ```
+
 #### Sortie de boucle  
 
 On peut interrompre une boucle totalement avec `break`, alors que `continue` permet de "sauter" une itération et de passer à la suivante.
+
 
 ## Commandes intégrées  
 
