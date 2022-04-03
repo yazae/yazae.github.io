@@ -21,7 +21,7 @@ Python 10.3 - Initiation avec Mon cours visuel de programmation de Sean McManus,
 ## To do  
 
 - bases python à saisir (en cours)
-  - Opérateurs logiques
+  - Revoir rendu site (ajouts espaces ?)
 - Remplir la partie spécificités (en cours)
 
 ## Getting started
@@ -33,19 +33,20 @@ On utilise la console Idle, installée en même temps que Python. Elle sers à t
 - Commentaires avec `#` : `#Ceci est un commentaire en python`  
   > Il est possible de faire un commentaire sur plusieurs lignes en déclarant une chaine de charactères non liée à une variable, mais autant utiliser # à chaque fois, c'est peu coûteux.  
 
-- Opérateurs arithmétiques : `+` `-` `*` `/`
-> Exemple :
-```py
+- Opérateurs arithmétiques : `+` `-` `*` `/`  
+
+> Exemple :  
+```py  
     prix = 8 + (5 - 6)
     taxe = prix * (20/100)
     print(taxe)
 1.4000000000000001
-
 ```  
 
 - Listes : entre crochet, séparé par des virgules
-> Exemple :
-```py
+
+> Exemple :  
+```py  
     ma_liste = [1, "deux", 3, 5, 7.4]
     ma_liste
 [1, 'deux', 3, 5, 7.4]
@@ -72,9 +73,10 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
 
   * `not` ex : `not(y == 3)` Renvoie false si l'expression est true, true si l'expression est false.
 
-### `if`, `elif`, `else`
-> Exemple :
-```py
+### `if`, `elif`, `else`  
+
+> Exemple :  
+```py  
     quiz_score = 9
     if quiz_score > 8:
       print("Vous etes un champion !")
@@ -85,13 +87,15 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
 
     Vous etes un champion !
 ```
+
 > `elif` est un raccourcis pour else if  
 
 ### Entrées et sorties  
 
 - `input` permet de demander à l’utilisateurice de saisir une donnée.
-> Exemple :
-```py
+
+> Exemple :  
+```py  
   nom = input("Saississez votre nom :")
 Saississez votre nom :Alex
   print("Bonjour "+nom+" !")
@@ -103,8 +107,9 @@ Bonjour Alex !
 #### La boucle `for`  
 
 Utilisée si l’on sait combien de fois le bloc de code sera répété.
-> exemple
-```py
+
+> exemple  
+```py  
 for chrono in range (1,4): # équivalent d’une liste contenant 1-3.
     print(chrono)
 else :
@@ -113,13 +118,13 @@ else :
 2
 3
 Go !
-```
+```  
+
 #### La boucle `while`  
 
 Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, à la place de la boucle `for`.  
 
 > exemple  
-
 ```py  
 number = 1
 while number <10:
