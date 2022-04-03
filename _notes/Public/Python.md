@@ -118,9 +118,9 @@ Go !
 
 Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, à la place de la boucle `for`.  
 
-> exemple
+> exemple  
 
-```py
+```py  
 number = 1
 while number <10:
     print(number)
@@ -135,7 +135,7 @@ while number <10:
 7
 8
 9
-```
+```  
 
 #### Sortie de boucle  
 
