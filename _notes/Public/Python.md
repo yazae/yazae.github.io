@@ -119,6 +119,7 @@ Go !
 Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, à la place de la boucle `for`.  
 
 > exemple
+
 ```py
 number = 1
 while number <10:
