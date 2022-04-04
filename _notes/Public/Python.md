@@ -76,7 +76,7 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
 ### `if`, `elif`, `else`  
 
 > Exemple :  
-```py  
+```py
     quiz_score = 9
     if quiz_score > 8:
       print("Vous etes un champion !")
@@ -84,7 +84,6 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
       print("Vous auriez pu faire mieux !")
     else:
     print("Étiez-vous bien réveillé ?")
-
     Vous etes un champion !
 ```
 
@@ -108,7 +107,7 @@ Bonjour Alex !
 
 Utilisée si l’on sait combien de fois le bloc de code sera répété.
 
-> exemple  
+> Exemple :  
 ```py  
 for chrono in range (1,4): # équivalent d’une liste contenant 1-3.
     print(chrono)
@@ -124,13 +123,12 @@ Go !
 
 Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, à la place de la boucle `for`.  
 
-> exemple  
-```py  
+> Exemple :  
+```py
 number = 1
 while number <10:
     print(number)
     number = number +1 # On incrémente de 1 number pour ne pas produire une boucle infinie.
-
 1
 2
 3
