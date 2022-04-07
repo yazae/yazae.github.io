@@ -35,7 +35,6 @@ On utilise la console Idle, installée en même temps que Python. Elle sers à t
 
 - Opérateurs arithmétiques : `+` `-` `*` `/`  
 
-> Exemple :  
 ```py  
     prix = 8 + (5 - 6)
     taxe = prix * (20/100)
@@ -45,7 +44,6 @@ On utilise la console Idle, installée en même temps que Python. Elle sers à t
 
 - Listes : entre crochet, séparé par des virgules
 
-> Exemple :  
 ```py  
     ma_liste = [1, "deux", 3, 5, 7.4]
     ma_liste
@@ -75,7 +73,6 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
 
 ### `if`, `elif`, `else`  
 
-> Exemple :  
 ```py
     quiz_score = 9
     if quiz_score > 8:
@@ -93,7 +90,6 @@ Une comparaison qui utilise des opérateurs logiques est appelée expression boo
 
 - `input` permet de demander à l’utilisateurice de saisir une donnée.
 
-> Exemple :  
 ```py  
   nom = input("Saississez votre nom :")
 Saississez votre nom :Alex
@@ -107,7 +103,6 @@ Bonjour Alex !
 
 Utilisée si l’on sait combien de fois le bloc de code sera répété.
 
-> Exemple :  
 ```py  
 for chrono in range (1,4): # équivalent d’une liste contenant 1-3.
     print(chrono)
@@ -123,7 +118,6 @@ Go !
 
 Utilisée si l’on ne sais pas combien de fois une boucle doit s’exécuter, à la place de la boucle `for`.  
 
-> Exemple :  
 ```py
 number = 1
 while number <10:
@@ -151,7 +145,8 @@ On peut interrompre une boucle totalement avec `break`, alors que `continue` per
 ```py
 print() #Permet d'afficher un résultat, le contenu d'une variable, etc.
 ```  
-> Exemple :  
+
+Exemple :  
 ```py
    num = 4
    print(num)
@@ -162,7 +157,8 @@ print() #Permet d'afficher un résultat, le contenu d'une variable, etc.
 ```py
 input #variable de base
 ```  
-> Exemple :  
+
+Exemple :  
 ```py
    input = 5
    print(input)
@@ -174,7 +170,8 @@ input #variable de base
 str() #fonction qui convertis le contenu en chaine de caractères (string)
 int() #fonction qui convertis le contenu en nombre entier (integer ?)
 ```  
-> Exemple :  
+
+Exemple :   
 ```py
     input = 5
     name = "Vincent"
@@ -187,7 +184,8 @@ Vincent5
 ```py
 len() #fonction qui donne le nombre de caractères d'une chaine de caractères (string)
 ```  
-> Exemple :  
+
+Exemple :   
 ```py
    len("Hello World")
 11
