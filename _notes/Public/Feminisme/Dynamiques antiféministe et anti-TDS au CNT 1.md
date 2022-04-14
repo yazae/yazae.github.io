@@ -1,5 +1,5 @@
 ---
-title : Dynamiques antiféministe et anti-TDS au CNT
+title : Dynamiques antiféministe et anti-TDS au CNT 1
 notetype : feed
 date : 01-12-2023
 ---
@@ -14,9 +14,6 @@ Et ça parle en filigrane de l'histoire de la création du premier syndicat de T
 
 Sinon, il y aussi le manifeste de ce syndicat qui me semble être un support pertinent sur les sujets mêlés de l'antipatriarcat et de l'anticapitalisme en rapport aux luttes TDS :
 [CNT-TDS-Manifesto-6mars2017.pdf](../assets/docs/CNT TDS 31/CNT-TDS-Manifesto-6mars2017.pdf)
-
-test: archive
-https://yazae.github.io/notes/Feminisme/Dynamiques-antif%C3%A9ministe-et-anti-TDS-au-CNT-1
 
  ----
   Édité le 25-03-22  
