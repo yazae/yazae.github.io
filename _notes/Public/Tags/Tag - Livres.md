@@ -9,6 +9,7 @@ Cette page réunira toutes les notes ayant le tag **Livres** ou **Books**.
 - [[The Wandering Inn - Notes]] (FR)
 - [[Critique de The Wandering Inn]]
 - [[Yazae]]
+- [[Les micro-critiques de Yazae (livres)]]
 
 C'est pas la solution la plus propre, mais ça fonctionne :')
 
