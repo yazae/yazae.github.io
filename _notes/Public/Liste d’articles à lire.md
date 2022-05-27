@@ -17,7 +17,7 @@ date : 27-05-2022
 	[http://sandroswordfire.over-blog.com/2021/12/pourquoi-je-ne-parle-plus-de-handicap-invisible.html](http://sandroswordfire.over-blog.com/2021/12/pourquoi-je-ne-parle-plus-de-handicap-invisible.html "http://sandroswordfire.over-blog.com/2021/12/pourquoi-je-ne-parle-plus-de-handicap-invisible.html")
 
 ## Queer
-- [https://usbeketrica.com/fr/article/soan-le-parcours-d-un-papa-transgenre-face-a-l-invisbilisation-de-la-transparentalite](https://usbeketrica.com/fr/article/soan-le-parcours-d-un-papa-transgenre-face-a-l-invisbilisation-de-la-transparentalite)
+- [Usbek & Rica - Soan, papa transgenre, « transparent mais pas invisible »](https://usbeketrica.com/fr/article/soan-le-parcours-d-un-papa-transgenre-face-a-l-invisbilisation-de-la-transparentalite)
 
 -----
 Édité le 27-05-22.  
