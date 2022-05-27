@@ -3,8 +3,8 @@ title : Les micro-critiques de Yazae (livres)
 notetype : feed
 date : 14-04-2022
 ---
-Vous trouverez ici toutes mes critiques/review écrites sur Mastodon qui concernent des livres 📚
-Les plus longues auront un article dédié, mais je préfère réunir tout dans une page plutôt que me disperser
+Vous trouverez ici toutes mes critiques/review écrites sur Mastodon qui concernent des livres 📚  
+Les plus longues auront un article dédié, mais je préfère réunir tout dans une page plutôt que me disperser.
 
 ## Index
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
