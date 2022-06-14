@@ -3,7 +3,7 @@ title : Accessibilité Wikiversité - Session 2
 notetype : unfeed
 date : 25-03-2022
 ---
-Notes sur la [deuxième session](https://fr.wikiversity.org/wiki/Initier_une_demarche_d_accessibilite_numerique-notions_de_base#firstHeading) de la formation Accessibilité numérique de la Wikiversité.
+Notes sur la [deuxième session](https://fr.wikiversity.org/wiki/Initier_une_demarche_d_accessibilite_numerique-notions_de_base#firstHeading) de la formation Accessibilité numérique de la Wikiversite.
 
 ## Index
 Retour à [[Accessibilité numérique (2015) - Wikiversité]] (session 1)
@@ -55,6 +55,9 @@ L'ally est une démarche et non un état de fait. C’est un processus où l'am�
 Il faut l'adapter à la situation et à ses méthodes de travail et pas l'inverse.
 
 Identifier les premières actions à mener et les pratiques à adopter, qui constitueront les premiers pas, permettront d'initier la démarche.
+
+
+Suite :  [[Accessibilité Wikiversité - Session 3]]
 
 ----
 Tous les contenus de la wikiversité sont sous license CC-BY-SA.
