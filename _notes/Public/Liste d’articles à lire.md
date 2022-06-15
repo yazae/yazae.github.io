@@ -11,9 +11,9 @@ date : 27-05-2022
 <!-- /TOC -->
 
 ## Handicap
-- [Les ESAT : générosité nationale ou entourloupe associative ? | Sandro Swordfire](http://sandroswordfire.over-blog.com/2022/04/paiement-en-esat-generosite-nationale-ou-entourloupe-associative.html)
-- [Pourquoi je ne parle plus de handicap invisible | Sandro Swordfires](http://sandroswordfire.over-blog.com/2021/12/pourquoi-je-ne-parle-plus-de-handicap-invisible.html)
-- [Pourquoi je ne supporte pas l'expression "personne en situation de handicap" | Sandro Swordfire](http://sandroswordfire.over-blog.com/2022/03/pourquoi-je-ne-supporte-pas-l-expression-personne-en-situation-de-handicap.html)
+- [Les ESAT : générosité nationale ou entourloupe associative ? \| Sandro Swordfire](http://sandroswordfire.over-blog.com/2022/04/paiement-en-esat-generosite-nationale-ou-entourloupe-associative.html)
+- [Pourquoi je ne parle plus de handicap invisible \| Sandro Swordfires](http://sandroswordfire.over-blog.com/2021/12/pourquoi-je-ne-parle-plus-de-handicap-invisible.html)
+- [Pourquoi je ne supporte pas l'expression "personne en situation de handicap" \| Sandro Swordfire](http://sandroswordfire.over-blog.com/2022/03/pourquoi-je-ne-supporte-pas-l-expression-personne-en-situation-de-handicap.html)
 
 ## Queer
 - [Usbek & Rica - Soan, papa transgenre, « transparent mais pas invisible »](https://usbeketrica.com/fr/article/soan-le-parcours-d-un-papa-transgenre-face-a-l-invisbilisation-de-la-transparentalite)
