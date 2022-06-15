@@ -7,6 +7,7 @@ date : 27-05-2022
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
 * [Handicap](#handicap)
 * [Queer](#queer)
+* [Accessibilité](#accessibilité)
 <!-- /TOC -->
 
 ## Handicap

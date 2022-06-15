@@ -13,7 +13,7 @@ Différentes sources qui donnent des pistes de réflexion sur l’écriture incl
 ## Ressources
 -   CodePen - Féminiser les textes (liste des abréviations inclusives et leurs avantages / inconvénients) - [https://codepen.io/vincent-valentin/full/woGLVL/](https://codepen.io/vincent-valentin/full/woGLVL/)
 
--   À celleux qui me lisent - romy.tetue.net  - [http://romy.tetue.net/a-celleux-qui-me-lisent](http://romy.tetue.net/a-celleux-qui-me-lisent) (sur l’usage de celleux)
+-   À celleux qui me lisent - romy.tetue.net  - [http://romy.tetue.net/a-celleux-qui-me-lisent](http://romy.tetue.net/a-celleux-qui-me-lisent) (sur l’usage de celleux)
 
 -   Inclusivité & accessibilité - Lunatopia - [http://lunatopia.fr/blog/inclusivite-accessibilite](http://lunatopia.fr/blog/inclusivite-accessibilite) (ça donne une réponse sur comment est lu le texte avec les point médians : avec les lettres prononcées distinctement apparemment ( à test )
 

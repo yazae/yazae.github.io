@@ -14,6 +14,7 @@ Cette page est un wiki. Je réunirais toutes les infos que je rassemblerais sur 
 * [Les Sans pagEs](#les-sans-pages)
   * [Les biais de genre dans WP](#les-biais-de-genre-dans-wp)
 * [Mon activité sur Wikipedia](#mon-activité-sur-wikipedia)
+* [Pages à surveiller](#pages-à-surveiller)
 <!-- /TOC -->
 
 
@@ -28,7 +29,7 @@ Cette page est un wiki. Je réunirais toutes les infos que je rassemblerais sur 
 
 - WP est une encyclopédie
 - Rédigée sur un ton neutre
-- Publié sous licence libre
+- Publiée sous licence libre
 - Régie par règles de savoir vivre
 - WP n'a pas d'autres règles fixes
   - Les autres règles sont définies par délibération et concensus, au niveau global ou individuel de chaque pages
@@ -86,7 +87,7 @@ Droit au langage inclusif mais pas de point médian :
   - [Atsuko Nishida](https://fr.wikipedia.org/wiki/Utilisatrice:Alex_Lambda/Atsuko_Nishida){:target="_blank"}, créatrice de Pikachu.
 
 ## Pages à surveiller
-[Erik Schinegger](https://f	r.m.wikipedia.org/wiki/Erik_Schinegger){:target="_blank"}
+[Erik Schinegger](https://fr.m.wikipedia.org/wiki/Erik_Schinegger){:target="_blank"}
 
 
 
