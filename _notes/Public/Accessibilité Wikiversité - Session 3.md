@@ -32,7 +32,7 @@ Il n’y a qu’à fournir la matière première : le texte d’un site web. La 
 - Les abréviations doivent être explicités, une fois au début de leur apparition. Si on manque de place, il existe une balise abbr pour renseigner la définition de l’abrev.
 
 ### Rendre accesssibles les liens
-- Le titre du lien (title) (<a href="" title="">intitulé</a>) doit contenir l’intitulé du lien à l’identique, accompagné d’une info complémentaire.
+- Le titre du lien (title) (``<a href="" title="">intitulé</a>``) doit contenir l’intitulé du lien à l’identique, accompagné d’une info complémentaire.
 - Avertir préalablement si un lien ouvre une nouvelle fenêtre.
 - Dans le cas d’un téléchargement, indiquer le poids et le format dans title ou dans l’intitulé directement afin d’avertir l’utilisateurice.
 
@@ -60,5 +60,5 @@ Il n’y a qu’à fournir la matière première : le texte d’un site web. La 
 
 ----
 Tous les contenus de la wikiversité sont sous license CC-BY-SA.  
-Édité le 14-06-22.  
+Édité le 23-07-22.  
 Tags : Libre, Accessibilité, Wikiversité, Wikipedia  
