@@ -24,15 +24,15 @@ Retour à [[Accessibilité Wikiversité - Session 2]]
 Il n’y a qu’à fournir la matière première : le texte d’un site web. La structuration HTML va permettre au texte d’être adapté sur tous les supports utilisés par l’internaute.
 
 - La langue d’un document doit être renseignée, afin que les lecteurs d’écrans puissent lire avec la bonne langue.
-- Le titre (title) du document doit correctement renseigner la nature du document, c’est le premier élément qui sera lu par l’internaute.
+- Le titre `title` du document doit correctement renseigner la nature du document, c’est le premier élément qui sera lu par l’internaute.
 
 ### Structurer l’information textuelle
-- Les titres doivent être déclarés avec la balise <h1>, <h2>, etc.
+- Les titres doivent être déclarés avec la balise `<h1>`, `<h2>`, etc.
 - Les listes, citations, tableux, etc. doivent utiliser leurs balises html.
 - Les abréviations doivent être explicités, une fois au début de leur apparition. Si on manque de place, il existe une balise abbr pour renseigner la définition de l’abrev.
 
 ### Rendre accesssibles les liens
-- Le titre du lien (title) (``<a href="" title="">intitulé</a>``) doit contenir l’intitulé du lien à l’identique, accompagné d’une info complémentaire.
+- Le titre du lien `title` (`<a href="" title="">intitulé</a>`) doit contenir l’intitulé du lien à l’identique, accompagné d’une info complémentaire.
 - Avertir préalablement si un lien ouvre une nouvelle fenêtre.
 - Dans le cas d’un téléchargement, indiquer le poids et le format dans title ou dans l’intitulé directement afin d’avertir l’utilisateurice.
 
@@ -40,7 +40,7 @@ Il n’y a qu’à fournir la matière première : le texte d’un site web. La 
 - L’alternative textuelle (attribut alt) doit systématiquement être renseignée. En son absence, le lecteur de texte lis le titre de l’image, ce qui est une nuisance.
 - Les images non porteuses d’information sont dites décoratives. On laisse l’attribut alt vide dans ce cas.
 - L’alternative doit être courte et concise
-- En cas d’images-liens, il faut renseigner le but du lien (ex : alt:nous suivre sur twitter).
+- En cas d’images-liens, il faut renseigner le but du lien (ex : `alt:nous suivre sur twitter`).
 - En cas d’images complexes, on saisira dans alt une courte description, le titre du graphique etc., et on devra fournir une description détaillée en parrallèle du graphique ou sur une page dédiée à cette description.
 
 ### Rendre les contenus audiovisuels accessibles
@@ -57,6 +57,7 @@ Il n’y a qu’à fournir la matière première : le texte d’un site web. La 
 - On doit pouvoir zoomer le texte en x2 minimum sans que ça ne casse le site (AA)
 - **L’information ne doit pas reposer sur la seule couleur** (A)
 
+Suite :  [[Accessibilité Wikiversité - Session 4]]
 
 ----
 Tous les contenus de la wikiversité sont sous license CC-BY-SA.  
