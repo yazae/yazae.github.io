@@ -59,6 +59,6 @@ Il n’y a qu’à fournir la matière première : le texte d’un site web. La 
 
 
 ----
-Tous les contenus de la wikiversité sont sous license CC-BY-SA.
-Édité le 14-06-22
-Tags : Libre, Accessibilité, Wikiversité, Wikipedia
+Tous les contenus de la wikiversité sont sous license CC-BY-SA.  
+Édité le 14-06-22.  
+Tags : Libre, Accessibilité, Wikiversité, Wikipedia  
