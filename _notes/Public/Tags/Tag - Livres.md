@@ -10,6 +10,7 @@ Cette page réunira toutes les notes ayant le tag **Livres** ou **Books**.
 - [[Critique de The Wandering Inn]]
 - [[Yazae]]
 - [[Les micro-critiques de Yazae (livres)]]
+- [[PAL]]
 
 C'est pas la solution la plus propre, mais ça fonctionne :')
 
