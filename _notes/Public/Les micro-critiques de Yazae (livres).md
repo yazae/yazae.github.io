@@ -28,7 +28,7 @@ Iels sont trop mignon·nes ensembles, Tam est super cool, et Nova aussi, elle po
 En plus le dessin est très réussis, des couleurs pastels qui marchent bien avec l’histoire et l’ambiance du récit, bref, je conseille cette lecture très fortement :3
 
 ### The Coldest Touch (09/04/22)
-**The Coldest Touch**, de Isabel Sterling. Langue : anglais.
+**The Coldest Touch**, de Isabel Sterling. Langue : anglais.  
 **CW / thèmes :** Meurtres, Romance lesbienne, Vampires, Bit-lit, YA.
 
 <img src="../assets/img/critiques/the-coldest-touch_cover.jpg" alt="Couverture de The Coldest Touch" width="50%"/>
