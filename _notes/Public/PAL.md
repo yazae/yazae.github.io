@@ -54,7 +54,7 @@ CW/thèmes : Urban Fantasy.
 **Cemetery Boys** de Aiden Thomas. Langue : anglais.  
 CW/thèmes : Urban Fantasy.
 
-<img src="../assets/img/PAL/cemetery-boys_cover.jpg" alt="Cemetery Boys" width="50%"/>
+<img src="../assets/img/PAL/cemetery-boys_cover.jpg" alt="Cemetery Boys cover" width="50%"/>
 
 > One of the things I loved most about this LGBT urban fantasy is the fact that while Yadriel’s family may have difficulties accepting the fact he’s trans, his deity never does (not a spoiler, it’s in the first chapter). While that might not be enough for Yadriel, it does help him believe he deserves his place in the world and grant him the confidence he needs for his journey.
 >
