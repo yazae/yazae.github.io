@@ -12,7 +12,6 @@ J’essaierais d’écrire une critique dans [[Les micro-critiques de Yazae (liv
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
 * [Queer Urban Fantasy](#queer-urban-fantasy)
   * [Legendborn](#legendborn)
-  * [Mooncakes](#mooncakes)
   * [White Trash Warlock](#white-trash-warlock)
   * [Cemetery Boys](#cemetery-boys)
 <!-- /TOC -->
@@ -27,18 +26,6 @@ CW/thèmes : Urban Fantasy.
 <img src="../assets/img/PAL/legendborn_cover.jpg" alt="Legendborn cover" width="50%"/>
 
 > The main characters in Legendborn aren’t LGBT (well, there’s a thing but I’m not going to say anything because spoilers, darling) but a good many of the characters surrounding them are. And while there have been reams of Round Table slash fic written through the ages, what I appreciated most about the way Deonn included LGBT content is that she simply…included it. The Scions in Legendborn may be interacting with extremely conservative and traditional personalities from long ago, and while those personalities certainly have some traction in terms of control, neither the Scions nor the other members of their courts are about to get steamrolled by outdated mores and cultural hangups where sexuality and gender identity are concerned. Alas, some of them aren’t as progressive about race, but that’s a different post.
-
-
-### Mooncakes
-**Mooncakes** de Suzanne Walker & Wendy Xu.  Langue : anglais.  
-CW/thèmes : Urban Fantasy, Witch.
-
-<img src="../assets/img/PAL/mooncakes_cover.jpg" alt="Mooncakes cover" width="50%"/>
-
-> Nova Huang is a teenage witch. She lives with her grandmother and her grandmother’s wife and helps them run their occult bookshop. Which may be why she can’t help investigating rumors of a white wolf into the woods one night, where she’s surprised to find her old crush Tam Lang, in werewolf form, battling a demon horse. They ask Nova and her grandmothers for help, and who are witches to say no?
->
-> Of course, working together means spending time together and spending time together means remembering why they were drawn to one another so many years ago. The mission comes first of course; there’s a town that needs saving. But you can’t fight every second of the day, now can you?
-
 
 ### White Trash Warlock
 **White Trash Warlock** de David R. Slayton. Langue : anglais.  
