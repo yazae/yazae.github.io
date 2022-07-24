@@ -16,7 +16,7 @@ Les plus longues auront un article dédié, mais je préfère réunir tout dans 
 **Mooncakes**, de Suzanne Walker & Wendy Xu.  Langue : anglais.  
 **CW / thèmes :** Urban Fantasy, Comics, Sorcières, Loup-garous, Romance Queer.
 
-<img src="../assets/img/PAL/mooncakes_cover.jpg" alt="La couverture du comics Mooncakes, avec une jeune sorcière qui à l’air d’avoir préparé des gâteaux, et une personne louve-garou qui est en train de lécher le plat ayant servi à faire les gâteaux." width="50%"/>
+<img src="../assets/img/critiques/mooncakes_cover.jpg" alt="La couverture du comics Mooncakes, avec une jeune sorcière qui à l’air d’avoir préparé des gâteaux, et une personne louve-garou qui est en train de lécher le plat ayant servi à faire les gâteaux." width="50%"/>
 
 J’ai lu Mooncakes aujourd’hui, et je suis très contente de cette découverte !
 
