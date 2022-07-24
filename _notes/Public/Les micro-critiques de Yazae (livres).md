@@ -40,7 +40,7 @@ On parle d'un 'twilight lesbien' sur Goodread mais la vérité c'est que Twiligh
 J'ai pas réussi à croire à l'univers posé, et ça m'arrive rarement dans mes lectures... Pourtant y'a un personnage trop cool qui utilise le pronom They, c'est bien une romance lesbienne avec des vampire, mais voilà, je ne le conseille pas ^^'
 
 ### The Queen and the Woodborn (25/06/21)
-**The Queen and the Woodborn**, de Shiniez. Langue : anglais.
+**The Queen and the Woodborn**, de Shiniez. Langue : anglais.  
 **CW / thèmes :** Webtoon, Fantasy médiévale, Romance lesbienne.
 
 <img src="../assets/img/critiques/the-queen-and-the-woodborn_cover.jpg" alt="Couverture de The Queen and the Woodborn" width="40%"/>
@@ -56,6 +56,8 @@ Mais, comme d'hab, de très beaux dessins, des personnage bien écris, une narra
 Tout comme Sunstone, on semble se diriger vers une romance lesbienne,  écrite donc par un mec cis, mais si c'est du niveau de cette dernière, je signe !!
 
 Pour le moment, ça n'existe qu'en anglais, sur Webtoon, mais ça vaut déjà le coup (ce dernier chapitre 😍)
+
+[Vous pouvez le lire sur Webtoon ici.](https://www.webtoons.com/en/challenge/the-queen-and-the-woodborn/list?title_no=502306)
 
 -----
 
