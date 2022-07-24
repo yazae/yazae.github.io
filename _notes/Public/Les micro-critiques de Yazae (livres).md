@@ -16,6 +16,8 @@ Les plus longues auront un article dédié, mais je préfère réunir tout dans 
 **The Coldest Touch**, de Isabel Sterling. Langue : anglais.
 CW/thèmes : Meurtres, Romance lesbienne, Vampires, Bit-lit, YA.
 
+<img src="../assets/img/critiques/the-coldest-touch_cover.jpg" alt="The Coldest Touch cover" width="50%"/>
+
 J'ai terminé The Coldest Touch, et j'avoue que je suis déçue, un manque de cohérence du début à la fin, des enjeux beaucoup trop importants pour des ados immatures as fuck (surtout Claire, insupportable), des fils d'intrigue non résolus comme si on les avait oubliés, bref c'était vraiment pas terrible, j'ai lu des fanfics/bouquins amateurs mieux écris.
 
 On parle d'un 'twilight lesbien' sur Goodread mais la vérité c'est que Twilight est bien mieux écris en comparaison !🤷‍♀️
