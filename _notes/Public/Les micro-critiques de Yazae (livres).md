@@ -11,11 +11,13 @@ Les plus longues auront un article dédié, mais je préfère réunir tout dans 
 * [Mooncakes (24/07/22)](#mooncakes-240722)
 * [The Coldest Touch (09/04/22)](#the-coldest-touch-090422)
 * [The Queen and the Woodborn (25/06/21)](#the-queen-and-the-woodborn-250621)
+* [Kushiel (06/06/21)](#kushiel-060621)
+* [Mes ruptures avec Laura Dean (24/08/20)](#mes-ruptures-avec-laura-dean-240820)
 <!-- /TOC -->
 
 ### Mooncakes (24/07/22)
 **Mooncakes**, de Suzanne Walker & Wendy Xu.  Langue : anglais.  
-**CW / thèmes :** Comics, Urban Fantasy, Sorcières, Loup-garous, Romance Queer.
+**CW / thèmes :** Comics, Urban Fantasy, Sorcières, Loup-garous, Romance Queer, Rupture familiale.
 
 <img src="../assets/img/critiques/mooncakes_cover.jpg" alt="La couverture du comics Mooncakes, avec une jeune sorcière qui à l’air d’avoir préparé des gâteaux, et une personne louve-garou qui est en train de lécher le plat ayant servi à faire les gâteaux." width="50%"/>
 
@@ -59,7 +61,58 @@ Pour le moment, ça n'existe qu'en anglais, sur Webtoon, mais ça vaut déjà le
 
 [Vous pouvez le lire sur Webtoon ici.](https://www.webtoons.com/en/challenge/the-queen-and-the-woodborn/list?title_no=502306)
 
+### Kushiel (06/06/21)
+**Kushiel**, de Jacqueline Carey. Langue : anglais mais une très bonne traduction française.  
+**Thèmes :** Fantasy, BDSM, TDS, Bisexusalité, Polyamour.
+**CW :** Viol, torture, traite d'être humains, même si rien n'est gratuit.
+
+Vu qu'on parle de Kushiel, c'est une série très complexe à pitcher, mais bon, on va essayer quand même o/
+
+C'est une série d'heroïc fantasy, en trois (gros) tomes, qui prends place dans une sorte de France fantasmée, dans une époque proche de la renaissance. Les habitants de ce pays ont le sang des déesses / dieux de l'amour dans les veines, et sont donc réputés pour leur beauté et leur sensualité ^^
+
+La mythologie du pays où ça se passe est basée sur les différentes formes d'amour / de sexe, une sorte de jésus (Élua, ici) et ses apôtres qui prôneraient chacun·e leur forme d'amour comme dogme principal. Élua lui-même n'ayant qu'un principe : "Aime comme tu l'entends".
+
+Par exemple, tu as une des déesse (Naamah) qui a choisis d'offrir son corps à des gens lors de leur périple, pour résoudre des situation - allégorie explicite de la prostitution - un des apôtres qui était un ange punisseur qui aimait les victimes de ses punissions (Kushiel) - allégorie explicite du SM - Cassiel, qui est une sorte d'allégorie de l'amour platonique etc…
+
+Et donc, l'héroïne, Phèdre, est une élue de Kushiel, ce qui signifie qu'elle trouve la jouissance dans la douleur. Elle est élevée par des prêtresses de Naamah - donc, de la prostitution institutionnalisée, glorifiée par un culte - , va être repérée par un noble, et sera formée à l'espionnage et à la politique. Au cours de ses missions d'espionnage, elle va finir par tomber sur un secret pouvant changer le futur du royaume, et c'est ainsi qu'une grande épopée commence...
+
+----
+Phèdre est donc une héroïne TDS, soumise et masochiste, bi et poly accessoirement, qui est très intelligente et incroyablement badass, et qui va résoudre les situations par sa ruse, ses connaissances et son courage, principalement.
+
+L'intrigue est en outre marquée par sa relation complexe avec Mélisande, une femme très dangereuse qui, je dois le dire, a peuplé mon imaginaire érotique pendant des années x)
+L'histoire est sous-tendue par cette phrase : «Qui se soumet n'est pas toujours faible».
+
+Franchement, que dire de plus ? C'est une œuvre incroyablement queer, dans beaucoup de sens du terme.
+
+Alors, ça repose aussi sur beaucoup de clichés/stéréotypes, ça joue même dessus explicitement, en allant jusqu'à nommer l'héroïne comme la figure tragique par excellence, mais honnêtement, c'est très bien utilisé, et à la lecture de l'ensemble, le message qui est transmis est positif et libérateur.
+
+Et enfin, le style est très loin d'être en reste, c'est vraiment super travaillé, la traduction est très réussie… C'est un livre qui fait partie de mes coups de cœur inconditionnels, donc bon, je ne peut que vous le conseiller :3
+
+Dans les points négatifs, je regrette qu'il y ait trop peu de romance lesbienne, et je dois dire que ses ship hétéros m'intéressent peu (après, ce n'est pas le centre de l'histoire du tout).
+
+On peu aussi regretter le fait que dans une société où la bisexualité est censée être 'normale', ce soit toujours le couple hétero qui domine.
+
+Par ailleurs, c'est pas là que vous trouverez de bonnes représentations racisée, ou même pauvre à priori, on reste sur des intrigues de cours et c'est très blanc ^^'
+
+Ah, et pleins de TW sur le troisième tome (viol, dont sur enfants, torture, pleins de trucs) , c'est très très sombre, les 3 tomes sont relativement indépendants donc c'est pas nécessaire si vous le sentez pas !
+
+Voilou voilou, j'en avait pas encore parlé par ici donc ça me semblait nécessaire hihi, désolée pour la longueur 😇
+
+### Mes ruptures avec Laura Dean (24/08/20)
+**Mes ruptures avec Laura Dean**, de Mariko Tamaki et Rosemary Valero-O'Connell  
+**CW / thèmes :** Comics, Relation toxique, Relation lesbienne, Personnages queers  
+
+L'héroïne est sous l'emprise de la belle et populaire Laura Dean, qui pourtant la traite comme un mouchoir usagé et la jette à la moindre occasion.
+
+On la suis donc dans son cheminement et ses difficultés à sortir de cette relation qui l'étouffe et dégrade ses rapports avec ses proches.
+
+La bichromie utilisée donne un effet presque éthéré, réflexif au dessin de Valero-O'Connell, qui sers bien le récit.
+
+Outre le sujet qui me semble intéressant à traiter, la force du titre repose aussi sur la belle galerie de personnages qui entourent l'héroïne et la soutiennent malgré ses difficultés à sortir de cette relation :)
+
+Intéressant et actuel !
+
 -----
 
-Édité le 24-07-22.   
+Édité le 27-07-22.   
 Tags : Livres
