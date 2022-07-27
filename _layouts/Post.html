@@ -27,7 +27,11 @@
 ------------------------------------------------------------------------------------>
 
 <!DOCTYPE html>
+{%- if page.lang -%}
+<html lang="{{ page.lang }}" dir="ltr">
+{%- else -%}
 <html lang="fr" dir="ltr">
+{%- endif -%}
 
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
