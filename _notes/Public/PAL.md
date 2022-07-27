@@ -15,13 +15,19 @@ J’essaierais d’écrire une critique dans [[Les micro-critiques de Yazae (liv
   * [Legendborn](#legendborn)
   * [White Trash Warlock](#white-trash-warlock)
   * [Cemetery Boys](#cemetery-boys)
+* [Queer SF](#queer-sf)
+  * [Spellhacker](#spellhacker)
 <!-- /TOC -->
 
 ## Queer Fantasy
 Pourquoi lire de la fantasy quand on peut lire de la fantasy queer ? :3
 
 ### Les Faucons de Raverra
-**Les Faucons de Raverra**,
+**Les Faucons de Raverra**, Melissa Caruso
+CW/thèmes : lesbian, gay, bi mc and sc, absolutely no homophobia, gay parents. One genderqueer sc in book 3.
+
+  >  What can I say, I love a story with two women as protagonists, one who is a fiery badass, the other very smart and bred for politics, who admits she doesn’t like that world and explains her ethical struggles. Plus danger, adventure, beautiful romance. (Azaliz)
+
 
 ### Legendborn
 **Legendborn**, de Tracy Deonn. Langue : anglais.  
@@ -50,6 +56,15 @@ CW/thèmes : Urban Fantasy.
 > One of the things I loved most about this LGBT urban fantasy is the fact that while Yadriel’s family may have difficulties accepting the fact he’s trans, his deity never does (not a spoiler, it’s in the first chapter). While that might not be enough for Yadriel, it does help him believe he deserves his place in the world and grant him the confidence he needs for his journey.
 >
 > I also adore Julian’s deep acceptance of the fact he’s gay; it’s not something we see in bad boy, macho characters on the regular and it’s so damn special, both as a reader who didn’t insist on her parents working to understand “bi” and later “pan” because she was just too tired of being judged, and as a parent who wants her kids to know they can be anything and anyone they damn want.
+
+## Queer SF  
+
+### Spellhacker  
+**Spellhacker**, de MK England  
+CW/thèmes : nb mc, mc with chronic illness, queer mc  
+  >  set in a world with tech and magic, really really cool, one of the main character is non binary and has a chronic illness <3 There are a few annoying thing in this book plot wise as the author is at the very beginning of her career I think and I wish it would have gone through a few more rounds of editing but overall I really loved it!!! (Loke)
+
+  > Can only agree with Loke! The universe is really really cool, it’s sort of a dystopia with magic that can be used either organically or via technology, and it’s fascinating! I’ve got a big beef with the mc who’s always angry at her friends with no reason, but the overal book felt like a good heist movie. (Azaliz)
 
 
 -----
