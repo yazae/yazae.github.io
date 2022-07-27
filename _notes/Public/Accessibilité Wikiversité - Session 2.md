@@ -42,7 +42,7 @@ La conception graphique s’attachera à limiter les difficultés de lisibilité
 Lorsque l'on débute, mieux vaut se donner des objectifs moindre mais réalistes et atteignables. Concentrez-vous par les points bloquants mais aussi les plus simples, comme l'obligation de l'attribut "alt" sur les images.
 
 ### Former les équipes
-L'a11y est un domaine technique qui necessite une formation.
+L'accessibilité est un domaine technique qui necessite une formation.
 Faire intervenir un expert certifié ne suffit pas à garantir l'accessibilité d’un projet web. Il faut aussi former les équipes, c’est-à-dire compléter la sensibilisation globale de l’ensemble des intervenants par des formations spécifiques, selon les profils, par exemple à la conduite de projet web accessible ou à la contribution de contenus accessibles.
 
 ### Planifier l'amélioration progressive
@@ -51,7 +51,7 @@ Chaque réunion de lancement d’un nouveau projet devrait intégrer un expert, 
 L'organisation en méthode agile est préconisée grâce à ses nombreux retours utilisateur et les corrections progressives qu'elle permet.
 
 ### Résumé
-L'ally est une démarche et non un état de fait. C’est un processus où l'amélioration est progressive et continue, où l’on apprend en même temps que l’on fait.
+L'accessibilité est une démarche et non un état de fait. C’est un processus où l'amélioration est progressive et continue, où l’on apprend en même temps que l’on fait.
 Il faut l'adapter à la situation et à ses méthodes de travail et pas l'inverse.
 
 Identifier les premières actions à mener et les pratiques à adopter, qui constitueront les premiers pas, permettront d'initier la démarche.
