@@ -19,7 +19,7 @@ Cette page réunira toutes les notes ayant le tag **Militantisme**.
 - [[Écriture inclusive et neutre]]
 
 
-C'est pas la solution la plus propre, mais ça fonctionne :'')
+C'est pas la solution la plus propre, mais ça fonctionne :')
 
 -----
 Édité le 14-06-22.  

@@ -10,7 +10,7 @@ Cette page réunira toutes les notes ayant le tag **Libre** ou **FOSS**.
 - [[Getting started on Wikipedia]]
 - [[Problèmes bluetooth sur Ubuntu]]
 
-C'est pas la solution la plus propre, mais ça fonctionne :'')
+C'est pas la solution la plus propre, mais ça fonctionne :')
 
 -----
 Édité le 25-03-22.  
