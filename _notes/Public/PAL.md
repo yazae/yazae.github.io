@@ -10,14 +10,18 @@ J’essaierais d’écrire une critique dans [[Les micro-critiques de Yazae (liv
 
 ## Index
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
-* [Queer Urban Fantasy](#queer-urban-fantasy)
+* [Queer Fantasy](#queer-fantasy)
+  * [Les Faucons de Raverra](#les-faucons-de-raverra)
   * [Legendborn](#legendborn)
   * [White Trash Warlock](#white-trash-warlock)
   * [Cemetery Boys](#cemetery-boys)
 <!-- /TOC -->
 
-## Queer Urban Fantasy
-Pourquoi lire de l’Urban Fantasy quand on peut lire de l’Urban Fantasy queer ? :3
+## Queer Fantasy
+Pourquoi lire de la fantasy quand on peut lire de la fantasy queer ? :3
+
+### Les Faucons de Raverra
+**Les Faucons de Raverra**,
 
 ### Legendborn
 **Legendborn**, de Tracy Deonn. Langue : anglais.  
