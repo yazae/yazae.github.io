@@ -63,8 +63,10 @@ Pour le moment, ça n'existe qu'en anglais, sur Webtoon, mais ça vaut déjà le
 
 ### Kushiel (06/06/21)
 **Kushiel**, de Jacqueline Carey. Langue : anglais mais une très bonne traduction française.  
-**Thèmes :** Fantasy, BDSM, TDS, Bisexusalité, Polyamour.
+**Thèmes :** Fantasy, BDSM, TDS, Bisexusalité, Polyamour.  
 **CW :** Viol, torture, traite d'être humains, même si rien n'est gratuit.
+
+<img src="../assets/img/critiques/kushiel_cover.jpg" alt="Couverture de Kushiel tome 1 - La Marque" width="50%"/>
 
 Vu qu'on parle de Kushiel, c'est une série très complexe à pitcher, mais bon, on va essayer quand même o/
 
@@ -77,6 +79,7 @@ Par exemple, tu as une des déesse (Naamah) qui a choisis d'offrir son corps à 
 Et donc, l'héroïne, Phèdre, est une élue de Kushiel, ce qui signifie qu'elle trouve la jouissance dans la douleur. Elle est élevée par des prêtresses de Naamah - donc, de la prostitution institutionnalisée, glorifiée par un culte - , va être repérée par un noble, et sera formée à l'espionnage et à la politique. Au cours de ses missions d'espionnage, elle va finir par tomber sur un secret pouvant changer le futur du royaume, et c'est ainsi qu'une grande épopée commence...
 
 ----
+
 Phèdre est donc une héroïne TDS, soumise et masochiste, bi et poly accessoirement, qui est très intelligente et incroyablement badass, et qui va résoudre les situations par sa ruse, ses connaissances et son courage, principalement.
 
 L'intrigue est en outre marquée par sa relation complexe avec Mélisande, une femme très dangereuse qui, je dois le dire, a peuplé mon imaginaire érotique pendant des années x)
@@ -101,6 +104,8 @@ Voilou voilou, j'en avait pas encore parlé par ici donc ça me semblait nécess
 ### Mes ruptures avec Laura Dean (24/08/20)
 **Mes ruptures avec Laura Dean**, de Mariko Tamaki et Rosemary Valero-O'Connell  
 **CW / thèmes :** Comics, Relation toxique, Relation lesbienne, Personnages queers  
+
+<img src="../assets/img/critiques/laura-dean_cover.jpg" alt="Couverture de Mes ruptures avec Laura Dean" width="50%"/>
 
 L'héroïne est sous l'emprise de la belle et populaire Laura Dean, qui pourtant la traite comme un mouchoir usagé et la jette à la moindre occasion.
 
