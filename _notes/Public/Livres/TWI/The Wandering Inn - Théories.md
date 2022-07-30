@@ -1,10 +1,10 @@
 ---
-title : The Wandering Inn - Notes
+title : The Wandering Inn - Théories
 notetype : feed
 date : 27-03-2022
 ---
 
-Une note rassemblant mes reflexions sur [The Wandering Inn](https://wanderinginn.com/){:target="_blank"}, cette extraordinaire série de webnovel. Aller vers ma [[Critique de The Wandering Inn]] pour plus d’infos !
+Une note rassemblant mes reflexions sur [The Wandering Inn](https://wanderinginn.com/ "Nouvelle page vers le site The Wandering Inn"){:target="_blank"}, cette extraordinaire série de webnovel. Aller vers ma [[Critique de The Wandering Inn]] pour plus d’infos !
 
 **⚠️ Attention: cette note contiens des spoilers ⚠️**
 
