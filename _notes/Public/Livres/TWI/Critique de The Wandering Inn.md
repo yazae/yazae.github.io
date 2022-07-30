@@ -21,7 +21,7 @@ P.S. : Il existe aussi une traduction française des deux premiers tomes : [L’
 **Vous voulez en savoir plus sur The Wandering inn ?  
 Visitez mes autres notes :**
 - [[TWI - Gravesong review]] (EN)
-- [[The Wandering Inn - Théories]] (FR)
+- [[TWI - Théories]] (FR)
 - [[TWI - Reading notes]] (EN)
 
 -----

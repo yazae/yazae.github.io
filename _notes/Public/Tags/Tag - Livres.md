@@ -12,7 +12,7 @@ Cette page réunira toutes les notes ayant le tag **Livres** ou **Books**.
 - TWI
 	- [[Critique de The Wandering Inn]]
 	- [[TWI - Gravesong review]] (EN)
-	- [[The Wandering Inn - Théories]] (FR)
+	- [[TWI - Théories]] (FR)
 	- [[TWI - Reading notes]] (EN)
 
 C'est pas la solution la plus propre, mais ça fonctionne :')
