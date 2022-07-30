@@ -18,5 +18,5 @@ Cette page réunira toutes les notes ayant le tag **Livres** ou **Books**.
 C'est pas la solution la plus propre, mais ça fonctionne :')
 
 -----
-Édité le 25-03-22.  
+Édité le 30-07-22.  
 Tags: Tag
