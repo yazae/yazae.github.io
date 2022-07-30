@@ -4,7 +4,7 @@ notetype : feed
 date : 01-12-2018
 ---
 
-Cet article est très long à lire, mais il donne un aperçu assez complet des dynamiques antiféministe et anti-TDS au sein du militantisme de gauche, notamment ici au sein de la plus grande confédération syndicale anarchiste de France (le CNT).
+Cet article est long à lire, mais il donne un aperçu assez complet des dynamiques antiféministe et anti-TDS au sein du militantisme de gauche, notamment ici au sein de la plus grande confédération syndicale anarchiste de France (le CNT).
 
 On y parle de la dénonciation du viol d'une militante par un autre militant, qui a provoqué l'exclusion de 8 militant·e·s féministes dénonçant ce viol et le gel de leur commission antisexiste (!), sans jamais punir l'agresseur. [La transcription du communiqué est sur leur site](https://cnttds31.noblogs.org/) mais pouvez le retrouver en PDF [ici](../assets/docs/CNT TDS 31/BalanceTonOrga-12juin2018.pdf).
 
