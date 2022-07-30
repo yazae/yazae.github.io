@@ -7,13 +7,7 @@ Vous trouverez ici toutes mes critiques/review écrites sur Mastodon qui concern
 Les plus longues auront un article dédié, mais je préfère réunir tout dans une page plutôt que me disperser.
 
 ## Index
-<!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
-* [Mooncakes (24/07/22)](#mooncakes-240722)
-* [The Coldest Touch (09/04/22)](#the-coldest-touch-090422)
-* [The Queen and the Woodborn (25/06/21)](#the-queen-and-the-woodborn-250621)
-* [Kushiel (06/06/21)](#kushiel-060621)
-* [Mes ruptures avec Laura Dean (24/08/20)](#mes-ruptures-avec-laura-dean-240820)
-<!-- /TOC -->
+
 
 ### Mooncakes (24/07/22)
 **Mooncakes**, de Suzanne Walker & Wendy Xu.  Langue : anglais.  
@@ -78,7 +72,7 @@ Par exemple, tu as une des déesse (Naamah) qui a choisis d'offrir son corps à 
 
 Et donc, l'héroïne, Phèdre, est une élue de Kushiel, ce qui signifie qu'elle trouve la jouissance dans la douleur. Elle est élevée par des prêtresses de Naamah - donc, de la prostitution institutionnalisée, glorifiée par un culte - , va être repérée par un noble, et sera formée à l'espionnage et à la politique. Au cours de ses missions d'espionnage, elle va finir par tomber sur un secret pouvant changer le futur du royaume, et c'est ainsi qu'une grande épopée commence...
 
-----
+———
 
 Phèdre est donc une héroïne TDS, soumise et masochiste, bi et poly accessoirement, qui est très intelligente et incroyablement badass, et qui va résoudre les situations par sa ruse, ses connaissances et son courage, principalement.
 
