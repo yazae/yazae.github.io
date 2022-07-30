@@ -13,11 +13,11 @@ It *may* have spoilers, but, honestly, if it's the first time you read about thi
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
 * [Volume 8](#volume-8)
   * [Interlude : Perspective and Past (09/10/21)](#interlude--perspective-and-past-091021)
-  * [8.50 (03/11/21)](#850-031121)
+  * [Chapter 8.50 (03/11/21)](#chapter-850-031121)
   * [Chapter 8.60 (26/12/21)](#chapter-860-261221)
   * [Interlude - Satar (20/02/22)](#interlude---satar-200222)
 * [Volume 9](#volume-9)
-  * [9.00 (23/07/22)](#900-230722)
+  * [Chapter 9.00 (23/07/22)](#chapter-900-230722)
 <!-- /TOC -->
 
 ## Volume 8
@@ -71,7 +71,7 @@ So, it's very interesting because a link is made between all these beings : the 
 
 So, we can guess that all these beings are linked together, being considered as 'gods' or creation of 'gods', and they are all perceived as 'anathema'. They also are outsiders of this world, maybe invaders, they seems to want to prey on the living, or to take revenge? Mysteries.
 
-### 8.50 (03/11/21)
+### Chapter 8.50 (03/11/21)
 <subtitle>After 8.49M (Mrsha and the Meeting of tribes) - Background spoilers</subtitle>
 
 So, this chapter is starting with Pelt, a (very) grumpy and (relatively) old dwarf. He manage to get the Demas metal from the Meeting of tribes, and : amazing, he didn't know this metal at all!!  
@@ -158,7 +158,7 @@ I’m _dying_
 few, what a ride... again!! I love this series so much💜💜💜
 
 ## Volume 9
-### 9.00 (23/07/22)
+### Chapter 9.00 (23/07/22)
 Quests
 
 > "Erin is back. Yay, yay. I wonder what will explode first?”
