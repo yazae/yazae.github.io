@@ -24,7 +24,7 @@ J’essaierais d’écrire une critique dans [[Les micro-critiques de Yazae (liv
 Pourquoi lire de la fantasy quand on peut lire de la fantasy queer ? :3
 
 ### Les Faucons de Raverra
-**Les Faucons de Raverra**, Melissa Caruso
+**Les Faucons de Raverra**, Melissa Caruso. Langue : Français.
 CW/thèmes : lesbian, gay, bi mc and sc, absolutely no homophobia, gay parents. One genderqueer sc in book 3.
 
 <img src="../assets/img/PAL/les-faucons-de-raverra-T1_cover.jpg" alt="Couverture de Les Faucons de Raverra tome 1" width="50%"/>
