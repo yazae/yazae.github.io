@@ -4,6 +4,11 @@ notetype : feed
 date : 30-07-2022
 lang : en
 ---
+
+Hi !
+I will try to keep reading notes of my readings of The Wandering Inn, some times just for a joke or to express why it's so good, other times to ramble about thoeries, it's a looong webnovel who update very often, so it will makes a lot of posts.
+It *may* have spoilers, but, honestly, if it's the first time you read about this series, you are so far from me that, it's safe, in a sense, you won't remember/understand before you caught up. (anyways, will specify the spoilers).
+
 ## Index
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:0 charForUnorderedList:* -->
 * [Volume 8](#volume-8)
@@ -14,10 +19,6 @@ lang : en
 * [Volume 9](#volume-9)
   * [9.00 (23/07/22)](#900-230722)
 <!-- /TOC -->
-
-Hi !
-I will try to keep reading notes of my readings of The Wandering Inn, some times just for a joke or to express why it's so good, other times to ramble about thoeries, it's a looong webnovel who update very often, so it will makes a lot of posts.
-It *may* have spoilers, but, honestly, if it's the first time you read about this series, you are so far from me that, it's safe, in a sense, you won't remember/understand before you caught up. (anyways, will specify the spoilers).
 
 ## Volume 8
 
@@ -128,7 +129,7 @@ But it’s not only funny, it’s getting more and more intense, Satar is reachi
 
 I will continue to read but, just, AAAAAAHHH it’s so cool !!!!!!!!!!!
 
-———
+———  
 
 >“What is it? A new Skill about the past?”  
 > […]
@@ -153,7 +154,7 @@ I will continue to read but, just, AAAAAAHHH it’s so cool !!!!!!!!!!!
 
 I’m _dying_
 
-———
+———  
 few, what a ride... again!! I love this series so much💜💜💜
 
 ## Volume 9
@@ -176,7 +177,7 @@ But the truth is that they are all underreacting, you can't control the Solstice
 
 One of the funniest line so far :''''')
 
-———
+———  
 It's a very good introducing chapter for the volume 9, with crazy Erin sheningans, a lot of fun, and some plot too, TWI is back and it will be good and magic as promised :3
 
 -----
