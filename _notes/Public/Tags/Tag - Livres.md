@@ -5,12 +5,15 @@ date : 30-03-2022
 ---
 Cette page réunira toutes les notes ayant le tag **Livres** ou **Books**.
 
-- [[TWI - Gravesong review]] (EN)
-- [[The Wandering Inn - Notes]] (FR)
-- [[Critique de The Wandering Inn]]
+
 - [[Yazae]]
 - [[Les micro-critiques de Yazae (livres)]]
 - [[PAL]]
+- TWI
+	- [[Critique de The Wandering Inn]]
+	- [[TWI - Gravesong review]] (EN)
+	- [[The Wandering Inn - Théories]] (FR)
+	- [[TWI - Reading notes]] (EN)
 
 C'est pas la solution la plus propre, mais ça fonctionne :')
 
